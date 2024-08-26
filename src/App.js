@@ -154,7 +154,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark"
-                href=""
+                href="https://github.com/Tharuuseww/ThaRuuu-Music---Using-ReactJs"
               >
                 <i className="bi bi-github mx-2"></i>View Project Details
               </a>
